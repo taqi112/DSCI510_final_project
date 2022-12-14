@@ -81,7 +81,7 @@ between predictors and response less linear by adding more predictors
 maybe even categorical predictors such as opponent defense rating etc.
 
 # Visualization
-- I made quite a few different types of visualizations.
+- I made quite a few different types of visualizations which can be seen in the **RESULTS FOLDER**.
 - I plotted the distributions of the features and response (Fantasy PTS). 
 - I also have visualizations of the predicted fantasy points vs actual fantasy 
 points as scatter plots with an OLS trendline for each model.
