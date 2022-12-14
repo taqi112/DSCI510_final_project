@@ -1,6 +1,10 @@
 # DSCI510_final_project
 # -------------------------------------
 
+# Final Report 
+
+>For the full detailed report look at the 'Final_Project_Report.pdf' file above
+
 # Dependencies
 
 > I have a `requirements.txt` file which contains all my dependencies and their version number.
