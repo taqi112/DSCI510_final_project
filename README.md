@@ -3,7 +3,7 @@
 
 # Final Report 
 
->For the full detailed report look at the 'Final_Project_Report.pdf' file above
+For the full detailed report look at the 'Final_Project_Report.pdf' file above
 
 # Dependencies
 
